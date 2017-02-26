@@ -4,14 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Sign up for Beta</h1>
+  <div align="center">
+  	<a href="/beta/">
+  	<i class="fa fa-arrow-circle-up fa-2x"></i>
+  	</a>
+  </div>
+<!--   <h1 class="page-heading">Sign up for Beta</h1> -->
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+<!--   <ul class="post-list"> -->
+<!--     {% for post in site.posts %} -->
+<!--       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+      </li> -->
+<!--     {% endfor %} -->
+<!--   </ul> -->
 </div>
