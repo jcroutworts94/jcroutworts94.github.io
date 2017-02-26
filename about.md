@@ -1,6 +1,5 @@
 ---
 layout: page
-title: RedBand
 permalink: /redband_beta/
 ---
 
