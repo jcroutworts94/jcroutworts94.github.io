@@ -83,7 +83,9 @@
 /* Individual Posts
  * ============================================== */
     .page-content {
-        padding: $spacing-unit 0;
+/*         padding: $spacing-unit 0; */
+        padding-top: $spacing-top-unit;
+        padding-bottom: $spacing-bottom-unit;
         text-align: justify;
     }
 
