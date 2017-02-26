@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: BETA SIGNUP
+permalink: /beta/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
+*RedBand* is an online entertainment platform bringing theatrical releases to the comfort of the home.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+* Author: Adam Croutworst
+* Github: http://github.com/acroutworst
+* Portfolio: http://acroutworst.github.io
