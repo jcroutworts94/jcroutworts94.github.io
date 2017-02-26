@@ -10,8 +10,11 @@ permalink: /redband/
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
   
-  <form id="newsletter" method="POST" action="https://formspree.io/adam@redbandmovies.com" novalidate="novalidate">
-  <div class="row">
+  <form id="newsletter" method="POST" action="https://formspree.io/adam@redbandmovies.com">
+    <input type="email" name="email" placeholder="Your email">    
+    <textarea name="message" placeholder="Your message"></textarea>
+    <button type="submit">Send</button>
+<!--   <div class="row">
     <div class="col-md-4 col-md-offset-2 col-sm-6">
       <div class="form-group margin-bottom">
         <input name="email" type="email" class="form-control" id="email" placeholder="Enter your email address…" required="" aria-required="true">
@@ -22,7 +25,7 @@ permalink: /redband/
         Sign Up For the RedBand Beta&nbsp;&nbsp;<i class="fa fa-envelope" aria-hidden="true"></i>
       </button>
     </div>
-  </div>
+  </div> -->
 </form>
   
   <p>
