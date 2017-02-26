@@ -9,7 +9,10 @@ twitter_username: username
 github_username: jcroutworts94
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
