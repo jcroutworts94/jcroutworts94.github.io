@@ -1,6 +1,6 @@
 # Site settings
 title: RedBand Films
-email: 
+email: adam@redbandmovies.com
 description: > # this means to ignore newlines until "baseurl:"
   RedBand
 baseurl: "" # the subpath of your site, e.g. /blog/
