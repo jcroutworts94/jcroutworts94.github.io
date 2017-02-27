@@ -59,7 +59,7 @@
         margin-right: 25px;
         padding-bottom: 100px;
 
-        .page-link-1 {
+        .page-link {
             line-height: $base-line-height;
             font-weight: bold;
             letter-spacing: 0.05em;
@@ -69,7 +69,7 @@
             }
         }
 
-        .page-link-1:hover {
+        .page-link:hover {
             opacity: 0.8 !important;
         }
 
